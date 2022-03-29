@@ -1,1 +1,1 @@
-# skillUp
+https://alexsoloveiko.github.io/skillUp/
